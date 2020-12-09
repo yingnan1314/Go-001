@@ -20,22 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81835598-5c17-477f-81c7-1ae2d2d19900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Week02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/study_dao.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/request/request.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/response/response.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/study.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/setting/setting.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qyn.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/study.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/validator/validator.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Week01/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week03/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
